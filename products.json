@@ -8,7 +8,10 @@
         "description": "Raih gaya kasual maksimal dengan Erigo T-Shirt Oversize Antelope Black Unisex. Desainnya yang oversized memberikan kenyamanan sekaligus tampil modis. T-shirt ini hadir dengan warna hitam klasik yang mudah dipadukan dengan berbagai outfit, serta detail grafis Antelope yang menambah kesan unik dan trendi.",
         "category": ["man", "woman"],
         "rating": 4.3,
-        "buyed" : 5
+        "buyed" : 5,
+        "image1": "./img/id-11134201-7r98v-lxdi6hhlmyzw03(1).jpg",
+        "image2": "./img/id-11134201-7r98w-lxdi6hdze78e32(1).jpg"
+        
     },
 
     {
@@ -20,7 +23,9 @@
         "description": "Cotton twill (stretch) sebagai bahan celana ini membuat penggunanya nyaman & bebas bergerak saat beraktivitas. Bahan stretch dengan cuttingan slim-fit menyegarkan tampilan outfit, cocok dipadukan dengan T-shirt maupun kemeja. Tampil casual sekaligus formal dapat diwujudkan dengan celana ini! Kami menyediakan pilihan panjang celana; pendek & panjang, yang bisa dipilih sesuai kebutuhan.",
         "category": ["man", "woman"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/id-11134201-7r98t-lu4f2p0b2uvj75(1).jpg",
+        "image2": "./img/id-11134201-7r992-lu4f2p0l2g47de(1).jpg"
     },
 
     {
@@ -32,7 +37,9 @@
         "description": "Tidak kehilangan siluet klasik di tengah era modern. Ini adalah Erigo Flight Jacket yang jadi pelengkap outfit untuk lebih stylish. Tidak hanya stylish, jaket ini menunjang kenyamanan dengan bahan jaket yang terbuat dari taslan dan potongan regular-fit. Memiliki 3 saku fungsional yang makin membuat Erigo Flight Jacket nyaman dipakai sehari-hari.",
         "category": ["man"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/i6igMgND-Flight-Jacket-Jesher-Black-4.jpg",
+        "image2": "./img/Flight-Jacket-Jesher-Black-1.jpg"
     },
 
     {
@@ -40,11 +47,13 @@
         "brand": "ERIGO",
         "name": "Erigo Short Shirt Cochise Light Brown Unisex",
         "price": "Rp 118.000",
-        "image": "./img/id-11134201-7r98z-lrfpaktyr3vra4.jpg",
+        "image": "./img/id-11134201-7r990-lrfozmi1uihq6c(2).jpg",
         "description": "Melangkah dengan percaya diri bersama Erigo Short Shirt Rayon. Ringan, nyaman & buat penampilan menjadi stylish. Perfect untuk gaya casual yang effortless! Menggunakan bahan rayon & button yang senada dengan warna kemeja. Tersedia banyak warna cerah & warna timeless yang bisa dipilih sesuai selera.",
         "category": ["man", "woman"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/id-11134201-7r990-lrfozmlnntuxbb(2).jpg",
+        "image2": "./img/id-11134201-7r98z-lrfozmkjpg7pcf(2).jpg"
     },
 
     {
@@ -56,7 +65,9 @@
         "description": "T-shirt yang cocok untuk dipadukan dengan berbagai jenis celana. Pilih desain & warna sesuai selera, kami menyediakan banyak macam! Dengan cuttingan regular fit membuat T-shirt ini cocok untuk segala bentuk badan, tidak terlalu longgar & tidak terlalu ketat. Menggunakan bahan cotton combed 30s yang akan membuat nyaman saat berkegiatan di luar ruangan.",
         "category": ["man", "woman"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/id-11134201-7r98w-lrfopttjwwi29a(2).jpg",
+        "image2": "./img/id-11134201-7r98x-lrfoptttwh9r04(2).jpg"
     },
 
     {
@@ -68,7 +79,9 @@
         "description": "Tidak kehilangan siluet klasik di tengah era modern. Ini adalah Erigo Flight Jacket yang jadi pelengkap outfit untuk lebih stylish. Tidak hanya stylish, jaket ini menunjang kenyamanan dengan bahan jaket yang terbuat dari taslan dan potongan regular-fit. Memiliki 3 saku fungsional yang makin membuat Erigo Flight Jacket nyaman dipakai sehari-hari.",
         "category": ["man"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/Flight-Jacket-Jonas-Dark-Oak-11(2)jpg",
+        "image2": "./img/Flight-Jacket-Jonas-Dark-Oak-10(2).jpg"
     },
 
     {
@@ -80,7 +93,9 @@
         "description": "Designed with a sleek leather strap, it secures effortlessly to your bag while safeguarding its hardware from scratches. This exquisite key holder is adorned with finely crafted miniatures of the iconic Deux Logo, Deux Wallet on Chain, and Julia Hat, infusing a playful sophistication into your everyday essentials.",
         "category": ["accessories"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download.jpeg",
+        "image2": "./img/download.jpeg"
     },
 
     {
@@ -92,7 +107,9 @@
         "description": "Practical yet effortlessly stylish, this Airpods case features a signature B-shaped flap and sleek magnetic closure. Designed to double as a chic bag charm or looped onto your pants, perfect blend of function and fashion.",
         "category": ["accessories"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (1).jpeg",
+        "image2": "./img/download (1).jpeg"
     },
 
     {
@@ -104,7 +121,9 @@
         "description": "A versatile accessory adorned with the signature Bimu monogram pattern. Designed to add a playful charm to your everyday look, it can be styled in countless ways—around your bag, as a chic neck scarf, or even a hair accessory",
         "category": ["accessories"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (2).jpeg",
+        "image2": "./img/download (2).jpeg"
     },
 
     {
@@ -116,7 +135,9 @@
         "description": "This belt offers a seamless design with a discreet hook at the end for a clean look. It features oval chain links adorned with the iconic B logo at the center. Finished with a B logo pendulum, this accessory adds a sophisticated touch to any outfit.",
         "category": ["accessories"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (3).jpeg",
+        "image2": "./img/download (3).jpeg"
     },
 
     {
@@ -128,7 +149,9 @@
         "description": "Featuring a minimalist rounded frame, this piece showcases the signature B logo against a refined enamel background. A subtle yet striking accessory for any ensemble.",
         "category": ["accessories"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (4).jpeg",
+        "image2": "./img/download (5).jpeg"
     },
 
     {
@@ -140,7 +163,9 @@
         "description": "A stylish and versatile unisex baseball cap designed for you and your +1. It features adjustable hardware for the perfect fit and signature B logo embroidery. The ultimate everyday accessory.",
         "category": ["accessories"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (5).jpeg",
+        "image2": "./img/download (6).jpeg"
     },
 
     {
@@ -152,7 +177,9 @@
         "description": "-",
         "category": ["man"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (8).jpeg",
+        "image2": "./img/download (9).jpeg"
     },
     
     {
@@ -164,7 +191,9 @@
         "description": "-",
         "category": ["footwears"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (10).jpeg",
+        "image2": "./img/download (11).jpeg"
     },
     
     {
@@ -176,7 +205,9 @@
         "description": "-",
         "category": ["footwears"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (12).jpeg",
+        "image2": "./img/download (13).jpeg"
     },
     
     {
@@ -188,7 +219,9 @@
         "description": "-",
         "category": ["man"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (14).jpeg",
+        "image2": "./img/download (15).jpeg"
     },
     
     {
@@ -200,7 +233,9 @@
         "description": "-",
         "category": ["footwears"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (16).jpeg",
+        "image2": "./img/download (17).jpeg"
     },
     
     {
@@ -212,7 +247,9 @@
         "description": "-",
         "category": ["man"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (18).jpeg",
+        "image2": "./img/ScrambleT-shirtDarkGrey_3_900x.jpg"
     },
     
     {
@@ -224,7 +261,9 @@
         "description": "-",
         "category": ["man"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (19).jpeg",
+        "image2": "./img/ScrambleT-shirtBone_3_600x"
     },
 
     {
@@ -236,7 +275,9 @@
         "description": "Gaudi PrP. Top Lengan Pendek Casual Wanita Kenisha Top Regular collar, short sleeves, full button, loose fit.",
         "category": ["woman"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/KenishaTopBlack_1735545815.jpg",
+        "image2": "./img/KenishaTopBlack_1735545816.jpg"
     },
 
     {
@@ -248,7 +289,9 @@
         "description": "Gaudi PrP. Kemeja Lengan Panjang Casual Wanita Dyvette Shirt Regular collar, long sleeves, full button and loose fit.",
         "category": ["woman"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/DyvetteShirtLightBlue_1736410020.jpg",
+        "image2": "./img/DyvetteShirtLightBlue_1735546954.jpg"
     },
 
     {
@@ -260,7 +303,9 @@
         "description": "Gaudi PrP. Outer Lengan Pendek Casual Wanita Anindira Outer Regular collar, short sleeves, full button, crop top cut, hidden front pocket and regular fit. ",
         "category": ["woman"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/AnindiraOuterNavy_1735546223.jpg",
+        "image2": "./img/AnindiraOuterNavy_1735546225.jpg"
     },
 
     {
@@ -272,7 +317,9 @@
         "description": "-",
         "category": ["woman"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/BaozhaiSkortBlack_1736933369.jpg",
+        "image2": "./img/BaozhaiSkortBlack_1736877732.jpg"
     },
 
     {
@@ -284,7 +331,9 @@
         "description": "Gaudi Ltd. Outer Lengan Panjang Casual Wanita Crescencia Outer Round neck, long sleeves, full button, loose fit and regular cut.",
         "category": ["woman"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/CrescenciaOuterBlack_1735546696.jpg",
+        "image2": "./img/CrescenciaOuterBlack_1735546697.jpg"
     },
 
     {
@@ -296,7 +345,9 @@
         "description": "Gaudi PrP. Outer Lengan Panjang Casual Wanita Aquene Outer Regular collar, long sleeves, full button, loose fit and regular cut.",
         "category": ["woman"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/AqueneOuterDARKCREAM_1736480529.jpg",
+        "image2": "./img/AqueneOuterDARKCREAM_1735546432.jpg"
     },
 
     {
@@ -308,7 +359,9 @@
         "description": "-",
         "category": ["kids"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (20).jpeg",
+        "image2": "./img/download (21).jpeg"
     },
 
     {
@@ -320,7 +373,9 @@
         "description": "-",
         "category": ["kids"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (22).jpeg",
+        "image2": "./img/download (23).jpeg"
     },
 
 
@@ -333,7 +388,9 @@
         "description": "-",
         "category": ["kids"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (26).jpeg",
+        "image2": "./img/download (27).jpeg"
     },
 
 
@@ -346,7 +403,9 @@
         "description": "-",
         "category": ["kids"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (30).jpeg",
+        "image2": "./img/download (31).jpeg"
     },
 
 
@@ -359,7 +418,9 @@
         "description": "-",
         "category": ["kids"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (28).jpeg",
+        "image2": "./img/download (28).jpeg"
     },
 
 
@@ -372,7 +433,9 @@
         "description": "-",
         "category": ["kids"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (29).jpeg",
+        "image2": "./img/download (29).jpeg"
     },
 
 
@@ -385,7 +448,9 @@
         "description": "-",
         "category": ["kids"],
         "rating": 0,
-        "buyed" : 0
+        "buyed" : 0,
+        "image1": "./img/download (24).jpeg",
+        "image2": "./img/download (25).jpeg"
     }
 ]
 
